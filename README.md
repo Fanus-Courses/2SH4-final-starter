@@ -29,4 +29,7 @@ The exam has four questions
 * You are also given two classes for your reference that you might use in your answers:
   * Point.java
   * MyCircle.java
+  
+  
+Do not use any built-in java methods except the ones from the Math class and the screen I/O methods.
 
