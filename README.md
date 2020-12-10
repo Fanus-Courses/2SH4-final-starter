@@ -3,7 +3,7 @@
 2.5 Hours (4:00 PM	to 6:30 PM)
 
 
-# Make sure you write first all the information below
+# Make sure you write first all the information below 
 
 MacID: [Insert your macID here]
 
@@ -12,6 +12,8 @@ StudentID: [Insert your numerical student ID here]
 Student First Name: [Insert your first name here]
 
 Student Last Name: [Insert your last name here]
+
+# Make sure to push (Hit Green Commit Changes Button) Frequently throughout the exam time to save your work
 
 # Answer all questions. 
 The exam has four questions
